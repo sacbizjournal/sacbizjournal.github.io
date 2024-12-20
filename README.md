@@ -1,1 +1,1 @@
-# sacbizjournals.github.io
+# sacbizjournal.github.io
